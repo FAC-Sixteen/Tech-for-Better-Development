@@ -1,5 +1,3 @@
-# Tech-for-Better-Development
-
 # Lead Generation / Tech for Better Development
 
 Welcome to the Tech for Better (TFB) lead generation. The purpose of this time, is to conduct horizon scanning for potential charities and NGOs which may have an interest in the TFB programme.
